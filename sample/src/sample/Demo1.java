@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 public class Demo1 {
 
-	@Test
+	
 	public void sum() 
 	{
 		System.out.println("Welcome to the Jenkins World");
